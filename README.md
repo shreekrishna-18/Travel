@@ -19,8 +19,8 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML 
+- CSS 
 - JavaScript  
 
 ---
