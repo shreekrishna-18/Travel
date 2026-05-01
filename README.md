@@ -1,4 +1,4 @@
-# 🌍 Travel Website Project
+<img width="1895" height="841" alt="image" src="https://github.com/user-attachments/assets/bbad288f-80b3-472c-97ff-689e21a4dc6b" /># 🌍 Travel Website Project
 
 A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript. This project provides users with travel information including destinations, accommodations, itineraries, and recommendations.
 
@@ -54,7 +54,7 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 ---
 
 ## 2️⃣ About Page
-![About Page](./img/about.jpg)
+<img width="1895" height="841" alt="image" src="https://github.com/user-attachments/assets/30c0961e-e8e9-464e-805a-2718b3768e00" />
 
 **Description:**
 - Provides information about the website  
@@ -64,7 +64,7 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 ---
 
 ## 3️⃣ Accommodation Page
-![Accommodation](./img/acc1.jpg)
+<img width="1902" height="819" alt="image" src="https://github.com/user-attachments/assets/d8421c32-4c1d-4ba0-85b6-11e24717873e" />
 
 **Description:**
 - Displays available accommodation options  
@@ -74,7 +74,7 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 ---
 
 ## 4️⃣ Itinerary Page
-![Itinerary](./img/itinerary.png)
+<img width="1898" height="818" alt="image" src="https://github.com/user-attachments/assets/aa2b4618-f434-467c-b857-927a4abd219f" />
 
 **Description:**
 - Shows travel plans and schedules  
@@ -84,7 +84,7 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 ---
 
 ## 5️⃣ Recommendations Page
-![Recommendations](./img/recommendations.png)
+<img width="1898" height="806" alt="image" src="https://github.com/user-attachments/assets/cced9d17-f131-4f5c-aae7-891d9254b529" />
 
 **Description:**
 - Suggests popular travel destinations  
