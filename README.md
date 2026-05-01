@@ -29,7 +29,6 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 
 <img width="237" height="390" alt="image" src="https://github.com/user-attachments/assets/7f6dec0a-4ab5-4a6e-be4d-87501f8f8af5" />
 
-
 ---
 
 ## 🚀 How to Run the Project
@@ -40,6 +39,8 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 2. Open the project folder
 3. Run the project:
    . Simply open index.html in your browser
+
+---
 
 # 📸 Screenshots & Step-by-Step Usage
 
@@ -92,3 +93,17 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 - Improves overall user experience  
 
 ---
+
+## 🎯 Purpose of the Project
+
+This project is created for:
+
+- Learning web development basics  
+- Practicing HTML, CSS, and JavaScript  
+- Building a simple real-world website  
+
+---
+
+## 👨‍💻 Author
+
+**Shreekrishna Yadav**
