@@ -26,3 +26,17 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 ---
 
 ## 📂 Project Structure
+travel/
+│── index.html
+│── about.html
+│── accommodation.html
+│── itinerary.html
+│── recommendations.html
+│── style.css
+│── script.js
+│
+└── img/
+├── about.jpg
+├── acc1.jpg
+├── acc2.jpg
+├── ...
