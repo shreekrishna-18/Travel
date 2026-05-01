@@ -26,17 +26,5 @@ A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript
 ---
 
 ## 📂 Project Structure
-travel/
-│── index.html
-│── about.html
-│── accommodation.html
-│── itinerary.html
-│── recommendations.html
-│── style.css
-│── script.js
-│
-└── img/
-├── about.jpg
-├── acc1.jpg
-├── acc2.jpg
-├── ...
+
+<img width="237" height="390" alt="image" src="https://github.com/user-attachments/assets/7f6dec0a-4ab5-4a6e-be4d-87501f8f8af5" />
