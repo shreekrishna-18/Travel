@@ -1,4 +1,4 @@
-<img width="1895" height="841" alt="image" src="https://github.com/user-attachments/assets/bbad288f-80b3-472c-97ff-689e21a4dc6b" /># 🌍 Travel Website Project
+# 🌍 Travel Website Project
 
 A simple and responsive **Travel Website** built using HTML, CSS, and JavaScript. This project provides users with travel information including destinations, accommodations, itineraries, and recommendations.
 
