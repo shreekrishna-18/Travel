@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="home-page">
+
+  <nav>
+    <div class="logo">
+      <img src="https://cdn-icons-png.flaticon.com/512/201/201623.png" alt="logo">
+    </div>
+
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="itinerary.html">Itinerary</a>
+    <a href="accommodation.html">Accommodation</a>
+    <a href="recommendations.html">Recommendations</a>
+  </nav>
+
+  <section class="hero" id="hero">
+
+    <div class="hero-left">
+      <h1 id="place-title"></h1>
+      <p id="place-desc"></p>
+
+      <button class="btn">Explore →</button>
+
+      <div class="budget-box">
+        <input type="number" id="budget" placeholder="Enter your budget">
+        <button onclick="suggest()">Check</button>
+        <p id="result"></p>
+      </div>
+    </div>
+
+    <div class="floating-slider">
+      <div class="floating-slide active" data-index="0">
+        <img src="" alt="slide1">
+        <span class="label">Kerala</span>
+      </div>
+
+      <div class="floating-slide" data-index="1">
+        <img src="" alt="slide2">
+        <span class="label">Thailand</span>
+      </div>
+
+      <div class="floating-slide" data-index="2">
+        <img src="" alt="slide3">
+        <span class="label">Bali</span>
+      </div>
+
+      <div class="floating-slide" data-index="3">
+        <img src="" alt="slide4">
+        <span class="label">Maldives</span>
+      </div>
+    </div>
+
+    <div class="dots" id="dots"></div>
+
+  </section>
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
